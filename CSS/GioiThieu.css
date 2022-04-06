@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.web video{
+    position: fixed;
+    margin: 0 5%;
+    height: 100%;
+}
+.web .lopphu{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+h1{
+    margin: 50px 0;
+    font-size: 100px;
+    text-align: center;
+}
+input{
+    position: fixed;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 40% 46%;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.web{
+    margin: 0 auto;
+    width: 90%;
+}
+.dau{
+    height: 20%;
+    width: 100%;
+    background-color: rgb(247, 221, 248);
+    border-radius: 8px;
+}
+.logo{
+ float: left;
+ height: 100%;
+ width: 30%;   
+}
+.logo img{
+    position: absolute;
+    top: -55px;
+    height: 300px;
+    object-fit: contain;
+}
+button{
+    float: right;
+    height: 50px;
+    width: 100px;
+    background-color:rgb(46, 122, 245);
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(247, 221, 248);
+}
+.muc1,.muc2,.muc3{
+    margin: 70px 20px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.than{
+    height: 80%;
+    width: 100%;
+}
+.anh img{
+    object-fit: cover;
+    height: 85%;
+    width: 100%;
+    margin: 50px 0;
+    border-radius: 10px;
+}
+.than .lopphu{
+    margin: 50px 0;
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    width: 90%;
+    height: 68%;
+    border-radius: 10px;
+    font-size: 100px;
+    text-align: center;
+    color: whitesmoke;
+}
+p{
+    font-family: "Poppins";
+    margin: 120px 0;
+}
